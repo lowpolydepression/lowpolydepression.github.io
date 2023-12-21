@@ -1,0 +1,38 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+body{
+    background-color: #edd8f2;
+}
+
+hr{
+    width: 40%;
+}
+
+#welcome{
+    display: flex;
+    justify-content: center;
+}
+
+#introduction{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    height: 20vh; 
+
+}
+
+#intro_text{
+    font-size: 40px;
+
+}
+
+#skull{
+    width: 2%;
+}
+
+#txt_title{
+    font-size: 28px;
+}
